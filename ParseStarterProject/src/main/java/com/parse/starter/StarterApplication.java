@@ -31,8 +31,8 @@ public class StarterApplication extends Application {
     // Add your initialization code here
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
             .applicationId("myappID")
-            .clientKey("aFlHe0Fgkx2w")
-            .server("http://13.59.251.38/parse/")
+            .clientKey("xxx")
+            .server("http://xxx/parse/")
             .build()
     );
     //pwd : aFlHe0Fgkx2w
